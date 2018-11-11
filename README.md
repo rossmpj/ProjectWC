@@ -1,1 +1,2 @@
-# ProjectWC
+# ProjectWordCounter_C
+
